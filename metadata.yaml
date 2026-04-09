@@ -6,5 +6,5 @@ company: MyCookieKit
 companyUrl: https://mycookiekit.com
 homepage: https://mycookiekit.com
 versions:
-  - sha: 928a4bb66743e4e650046bbcdaf233822d25517d
+  - sha: f4a4cacdbe80b5e44c4c30dd14cb36c94270d734
     changeNotes: Initial release.
