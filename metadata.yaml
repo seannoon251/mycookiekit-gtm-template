@@ -4,4 +4,7 @@ categories:
   - consent-management
 company: MyCookieKit
 companyUrl: https://mycookiekit.com
-version: v1
+homepage: https://mycookiekit.com
+versions:
+  - sha: bb06a3b9a4335384a15133863e2493d51a32d1dd
+    changeNotes: Initial release.
